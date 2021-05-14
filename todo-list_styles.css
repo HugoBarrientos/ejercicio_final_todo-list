@@ -4,3 +4,12 @@ section{
 section .input-group{
     width: 40% !important;
 }
+
+.cancel-button{
+    width: 15px;
+    margin-left: 20px;
+}
+
+.form-check{
+    padding-left: 0px !important;
+}
